@@ -1,0 +1,3640 @@
+[   13.302574] [GUEST KERNEL] Writing to CI
+[   13.303879] ########### Sending request 1
+#### enter request handler
+Write
+143833713099210496
+143833713099210496
+143833713099210496
+143833713099210496
+143833713099210496
+143833713099210496
+143833713099210496
+143833713099210496
+firecracker: new CI received
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.305618] ########### Request 1 get response
+[   13.307055] [GUEST KERNEL] Writing to CI done
+[   13.308470] [GUEST KERNEL] Reading from CI
+[   13.309821] ########### Sending request 2
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.311342] ########### Request 2 get response
+[   13.312747] [GUEST KERNEL] Reading from CI done
+[   13.313732] [GUEST KERNEL] Reading from CI
+[   13.314632] ########### Sending request 3
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.315725] ########### Request 3 get response
+[   13.316718] [GUEST KERNEL] Reading from CI done
+[   13.317738] [GUEST KERNEL] Reading from CI
+[   13.318622] ########### Sending request 4
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.319699] ########### Request 4 get response
+[   13.320680] [GUEST KERNEL] Reading from CI done
+[   13.321674] [GUEST KERNEL] Reading from CI
+[   13.322540] ########### Sending request 5
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.323357] ########### Request 5 get response
+[   13.324067] [GUEST KERNEL] Reading from CI done
+[   13.324799] [GUEST KERNEL] Reading from CI
+[   13.325439] ########### Sending request 6
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.326297] ########### Request 6 get response
+[   13.326993] [GUEST KERNEL] Reading from CI done
+[   13.327698] [GUEST KERNEL] Reading from CI
+[   13.328358] ########### Sending request 7
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.329192] ########### Request 7 get response
+[   13.329890] [GUEST KERNEL] Reading from CI done
+[   13.330586] [GUEST KERNEL] Reading from CI
+[   13.331226] ########### Sending request 8
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.332072] ########### Request 8 get response
+[   13.332755] [GUEST KERNEL] Reading from CI done
+[   13.333369] [GUEST KERNEL] Reading from CI
+[   13.333926] ########### Sending request 9
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.334704] ########### Request 9 get response
+[   13.335327] [GUEST KERNEL] Reading from CI done
+[   13.335987] [GUEST KERNEL] Reading from CI
+[   13.336584] ########### Sending request 10
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.337402] ########### Request 10 get response
+[   13.338047] [GUEST KERNEL] Reading from CI done
+[   13.338685] [GUEST KERNEL] Reading from CI
+[   13.339262] ########### Sending request 11
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.340060] ########### Request 11 get response
+[   13.340724] [GUEST KERNEL] Reading from CI done
+[   13.341365] [GUEST KERNEL] Reading from CI
+[   13.341936] ########### Sending request 12
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.342718] ########### Request 12 get response
+[   13.343348] [GUEST KERNEL] Reading from CI done
+[   13.343992] [GUEST KERNEL] Reading from CI
+[   13.344590] ########### Sending request 13
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.345415] ########### Request 13 get response
+[   13.346062] [GUEST KERNEL] Reading from CI done
+[   13.346711] [GUEST KERNEL] Reading from CI
+[   13.347296] ########### Sending request 14
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.348121] ########### Request 14 get response
+[   13.348765] [GUEST KERNEL] Reading from CI done
+[   13.349423] [GUEST KERNEL] Reading from CI
+[   13.349996] ########### Sending request 15
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.350786] ########### Request 15 get response
+[   13.351425] [GUEST KERNEL] Reading from CI done
+[   13.352058] [GUEST KERNEL] Reading from CI
+[   13.352645] ########### Sending request 16
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.353449] ########### Request 16 get response
+[   13.354094] [GUEST KERNEL] Reading from CI done
+[   13.354733] [GUEST KERNEL] Reading from CI
+[   13.355320] ########### Sending request 17
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.356138] ########### Request 17 get response
+[   13.356776] [GUEST KERNEL] Reading from CI done
+[   13.357416] [GUEST KERNEL] Reading from CI
+[   13.358000] ########### Sending request 18
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.358813] ########### Request 18 get response
+[   13.359443] [GUEST KERNEL] Reading from CI done
+[   13.360080] [GUEST KERNEL] Reading from CI
+[   13.360659] ########### Sending request 19
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.361457] ########### Request 19 get response
+[   13.362061] [GUEST KERNEL] Reading from CI done
+[   13.362651] [GUEST KERNEL] Reading from CI
+[   13.363188] ########### Sending request 20
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.363925] ########### Request 20 get response
+[   13.364538] [GUEST KERNEL] Reading from CI done
+[   13.365123] [GUEST KERNEL] Reading from CI
+[   13.365667] ########### Sending request 21
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.366420] ########### Request 21 get response
+[   13.367001] [GUEST KERNEL] Reading from CI done
+[   13.367620] [GUEST KERNEL] Writing to CI
+[   13.368154] ########### Sending request 22
+#### enter request handler
+Write
+72057594037927936
+72057594037927936
+72057594037927936
+72057594037927936
+72057594037927936
+72057594037927936
+72057594037927936
+72057594037927936
+firecracker: new CI received
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.368928] ########### Request 22 get response
+[   13.369524] [GUEST KERNEL] Writing to CI done
+[   13.370103] [GUEST KERNEL] Reading from CI
+[   13.370638] ########### Sending request 23
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.371392] ########### Request 23 get response
+[   13.371986] [GUEST KERNEL] Reading from CI done
+[   13.372605] [GUEST KERNEL] Reading from CI
+[   13.373142] ########### Sending request 24
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.373890] ########### Request 24 get response
+[   13.374483] [GUEST KERNEL] Reading from CI done
+[   13.375063] [GUEST KERNEL] Reading from CI
+[   13.375594] ########### Sending request 25
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.376372] ########### Request 25 get response
+[   13.376953] [GUEST KERNEL] Reading from CI done
+[   13.377562] [GUEST KERNEL] Reading from CI
+[   13.378089] ########### Sending request 26
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.378823] ########### Request 26 get response
+[   13.379412] [GUEST KERNEL] Reading from CI done
+[   13.379999] [GUEST KERNEL] Reading from CI
+[   13.380551] ########### Sending request 27
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.381287] ########### Request 27 get response
+[   13.381874] [GUEST KERNEL] Reading from CI done
+[   13.382465] [GUEST KERNEL] Reading from CI
+[   13.382995] ########### Sending request 28
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.383737] ########### Request 28 get response
+[   13.384365] [GUEST KERNEL] Reading from CI done
+[   13.384957] [GUEST KERNEL] Reading from CI
+[   13.385488] ########### Sending request 29
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.386239] ########### Request 29 get response
+[   13.386830] [GUEST KERNEL] Reading from CI done
+[   13.387419] [GUEST KERNEL] Reading from CI
+[   13.387972] ########### Sending request 30
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.388718] ########### Request 30 get response
+[   13.389307] [GUEST KERNEL] Reading from CI done
+[   13.389891] [GUEST KERNEL] Reading from CI
+[   13.390417] ########### Sending request 31
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.391143] ########### Request 31 get response
+[   13.391733] [GUEST KERNEL] Reading from CI done
+[   13.392339] [GUEST KERNEL] Reading from CI
+[   13.392869] ########### Sending request 32
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.393612] ########### Request 32 get response
+[   13.394196] [GUEST KERNEL] Reading from CI done
+[   13.394784] [GUEST KERNEL] Reading from CI
+[   13.395335] ########### Sending request 33
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.396132] ########### Request 33 get response
+[   13.396716] [GUEST KERNEL] Reading from CI done
+[   13.397328] [GUEST KERNEL] Reading from CI
+[   13.397856] ########### Sending request 34
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.398580] ########### Request 34 get response
+[   13.399163] [GUEST KERNEL] Reading from CI done
+[   13.399770] [GUEST KERNEL] Reading from CI
+[   13.400328] ########### Sending request 35
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.401061] ########### Request 35 get response
+[   13.401640] [GUEST KERNEL] Reading from CI done
+[   13.402222] [GUEST KERNEL] Reading from CI
+[   13.402747] ########### Sending request 36
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.403473] ########### Request 36 get response
+[   13.404064] [GUEST KERNEL] Reading from CI done
+[   13.404665] [GUEST KERNEL] Reading from CI
+[   13.405193] ########### Sending request 37
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.405966] ########### Request 37 get response
+[   13.406544] [GUEST KERNEL] Reading from CI done
+[   13.407120] [GUEST KERNEL] Reading from CI
+[   13.407640] ########### Sending request 38
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.408398] ########### Request 38 get response
+[   13.408970] [GUEST KERNEL] Reading from CI done
+[   13.409575] [GUEST KERNEL] Reading from CI
+[   13.410114] ########### Sending request 39
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.410850] ########### Request 39 get response
+[   13.411431] [GUEST KERNEL] Reading from CI done
+[   13.412019] [GUEST KERNEL] Reading from CI
+[   13.412563] ########### Sending request 40
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.413323] ########### Request 40 get response
+[   13.413909] [GUEST KERNEL] Reading from CI done
+[   13.414499] [GUEST KERNEL] Reading from CI
+[   13.415021] ########### Sending request 41
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.415760] ########### Request 41 get response
+[   13.416349] [GUEST KERNEL] Reading from CI done
+[   13.416930] [GUEST KERNEL] Reading from CI
+[   13.417453] ########### Sending request 42
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.418175] ########### Request 42 get response
+[   13.418751] [GUEST KERNEL] Reading from CI done
+[   13.419327] [GUEST KERNEL] Reading from CI
+[   13.419854] ########### Sending request 43
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.420597] ########### Request 43 get response
+[   13.421180] [GUEST KERNEL] Reading from CI done
+[   13.421772] [GUEST KERNEL] Reading from CI
+[   13.422313] ########### Sending request 44
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.423046] ########### Request 44 get response
+[   13.423624] [GUEST KERNEL] Reading from CI done
+[   13.424223] [GUEST KERNEL] Reading from CI
+[   13.424755] ########### Sending request 45
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.425506] ########### Request 45 get response
+[   13.426093] [GUEST KERNEL] Reading from CI done
+[   13.426665] [GUEST KERNEL] Reading from CI
+[   13.427187] ########### Sending request 46
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.427934] ########### Request 46 get response
+[   13.428532] [GUEST KERNEL] Reading from CI done
+[   13.429108] [GUEST KERNEL] Reading from CI
+[   13.429630] ########### Sending request 47
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.430366] ########### Request 47 get response
+[   13.430938] [GUEST KERNEL] Reading from CI done
+[   13.431509] [GUEST KERNEL] Reading from CI
+[   13.432036] ########### Sending request 48
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.432782] ########### Request 48 get response
+[   13.433360] [GUEST KERNEL] Reading from CI done
+[   13.433951] [GUEST KERNEL] Reading from CI
+[   13.434475] ########### Sending request 49
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.435215] ########### Request 49 get response
+[   13.435808] [GUEST KERNEL] Reading from CI done
+[   13.436414] [GUEST KERNEL] Reading from CI
+[   13.436942] ########### Sending request 50
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.437662] ########### Request 50 get response
+[   13.438227] [GUEST KERNEL] Reading from CI done
+[   13.438793] [GUEST KERNEL] Reading from CI
+[   13.439316] ########### Sending request 51
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.440044] ########### Request 51 get response
+[   13.440638] [GUEST KERNEL] Reading from CI done
+[   13.441213] [GUEST KERNEL] Reading from CI
+[   13.441736] ########### Sending request 52
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.442449] ########### Request 52 get response
+[   13.443016] [GUEST KERNEL] Reading from CI done
+[   13.443582] [GUEST KERNEL] Reading from CI
+[   13.444117] ########### Sending request 53
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.444844] ########### Request 53 get response
+[   13.445417] [GUEST KERNEL] Reading from CI done
+[   13.446003] [GUEST KERNEL] Reading from CI
+[   13.446552] ########### Sending request 54
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.447275] ########### Request 54 get response
+[   13.447839] [GUEST KERNEL] Reading from CI done
+[   13.448423] [GUEST KERNEL] Reading from CI
+[   13.448945] ########### Sending request 55
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.449672] ########### Request 55 get response
+[   13.450247] [GUEST KERNEL] Reading from CI done
+[   13.450817] [GUEST KERNEL] Reading from CI
+[   13.451335] ########### Sending request 56
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.452081] ########### Request 56 get response
+[   13.452663] [GUEST KERNEL] Reading from CI done
+[   13.453242] [GUEST KERNEL] Reading from CI
+[   13.453774] ########### Sending request 57
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.454501] ########### Request 57 get response
+[   13.455074] [GUEST KERNEL] Reading from CI done
+[   13.455649] [GUEST KERNEL] Reading from CI
+[   13.456194] ########### Sending request 58
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.456930] ########### Request 58 get response
+[   13.457509] [GUEST KERNEL] Reading from CI done
+[   13.458074] [GUEST KERNEL] Reading from CI
+[   13.458591] ########### Sending request 59
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.459309] ########### Request 59 get response
+[   13.459881] [GUEST KERNEL] Reading from CI done
+[   13.460474] [GUEST KERNEL] Reading from CI
+[   13.460998] ########### Sending request 60
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.461720] ########### Request 60 get response
+[   13.462342] [GUEST KERNEL] Reading from CI done
+[   13.462944] [GUEST KERNEL] Reading from CI
+[   13.463520] ########### Sending request 61
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.464305] ########### Request 61 get response
+[   13.464940] [GUEST KERNEL] Reading from CI done
+[   13.465577] [GUEST KERNEL] Reading from CI
+[   13.466128] ########### Sending request 62
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.466896] ########### Request 62 get response
+[   13.467518] [GUEST KERNEL] Reading from CI done
+[   13.468160] [GUEST KERNEL] Reading from CI
+[   13.468687] ########### Sending request 63
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.469456] ########### Request 63 get response
+[   13.470068] [GUEST KERNEL] Reading from CI done
+[   13.470677] [GUEST KERNEL] Reading from CI
+[   13.471209] ########### Sending request 64
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.471966] ########### Request 64 get response
+[   13.472581] [GUEST KERNEL] Reading from CI done
+[   13.473194] [GUEST KERNEL] Reading from CI
+[   13.473764] ########### Sending request 65
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.474510] ########### Request 65 get response
+[   13.475110] [GUEST KERNEL] Reading from CI done
+[   13.475744] [GUEST KERNEL] Reading from CI
+[   13.476327] ########### Sending request 66
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.477121] ########### Request 66 get response
+[   13.477746] [GUEST KERNEL] Reading from CI done
+[   13.478345] [GUEST KERNEL] Reading from CI
+[   13.478891] ########### Sending request 67
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.479666] ########### Request 67 get response
+[   13.480311] [GUEST KERNEL] Reading from CI done
+[   13.480923] [GUEST KERNEL] Reading from CI
+[   13.481481] ########### Sending request 68
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.482242] ########### Request 68 get response
+[   13.482867] [GUEST KERNEL] Reading from CI done
+[   13.483473] [GUEST KERNEL] Reading from CI
+[   13.484010] ########### Sending request 69
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.484801] ########### Request 69 get response
+[   13.485422] [GUEST KERNEL] Reading from CI done
+[   13.486058] [GUEST KERNEL] Reading from CI
+[   13.486627] ########### Sending request 70
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.487411] ########### Request 70 get response
+[   13.488043] [GUEST KERNEL] Reading from CI done
+[   13.488668] [GUEST KERNEL] Reading from CI
+[   13.489232] ########### Sending request 71
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.490010] ########### Request 71 get response
+[   13.490607] [GUEST KERNEL] Reading from CI done
+[   13.491213] [GUEST KERNEL] Reading from CI
+[   13.491756] ########### Sending request 72
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.492552] ########### Request 72 get response
+[   13.493179] [GUEST KERNEL] Reading from CI done
+[   13.493820] [GUEST KERNEL] Reading from CI
+[   13.494387] ########### Sending request 73
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.495167] ########### Request 73 get response
+[   13.495755] [GUEST KERNEL] Reading from CI done
+[   13.496396] [GUEST KERNEL] Reading from CI
+[   13.496969] ########### Sending request 74
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.497724] ########### Request 74 get response
+[   13.498349] [GUEST KERNEL] Reading from CI done
+[   13.498957] [GUEST KERNEL] Reading from CI
+[   13.499513] ########### Sending request 75
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.500268] ########### Request 75 get response
+[   13.500874] [GUEST KERNEL] Reading from CI done
+[   13.501513] [GUEST KERNEL] Reading from CI
+[   13.502099] ########### Sending request 76
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.502860] ########### Request 76 get response
+[   13.503479] [GUEST KERNEL] Reading from CI done
+[   13.504091] [GUEST KERNEL] Reading from CI
+[   13.504659] ########### Sending request 77
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.505443] ########### Request 77 get response
+[   13.506048] [GUEST KERNEL] Reading from CI done
+[   13.506683] [GUEST KERNEL] Reading from CI
+[   13.507250] ########### Sending request 78
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.508013] ########### Request 78 get response
+[   13.508610] [GUEST KERNEL] Reading from CI done
+[   13.509220] [GUEST KERNEL] Reading from CI
+[   13.509792] ########### Sending request 79
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.510585] ########### Request 79 get response
+[   13.511219] [GUEST KERNEL] Reading from CI done
+[   13.511847] [GUEST KERNEL] Reading from CI
+[   13.512434] ########### Sending request 80
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.513236] ########### Request 80 get response
+[   13.513835] [GUEST KERNEL] Reading from CI done
+[   13.514473] [GUEST KERNEL] Reading from CI
+[   13.515039] ########### Sending request 81
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.515829] ########### Request 81 get response
+[   13.516479] [GUEST KERNEL] Reading from CI done
+[   13.517108] [GUEST KERNEL] Reading from CI
+[   13.517674] ########### Sending request 82
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.518450] ########### Request 82 get response
+[   13.519069] [GUEST KERNEL] Reading from CI done
+[   13.519698] [GUEST KERNEL] Reading from CI
+[   13.520299] ########### Sending request 83
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.521079] ########### Request 83 get response
+[   13.521718] [GUEST KERNEL] Reading from CI done
+[   13.522330] [GUEST KERNEL] Reading from CI
+[   13.522852] ########### Sending request 84
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.523583] ########### Request 84 get response
+[   13.524181] [GUEST KERNEL] Reading from CI done
+[   13.524775] [GUEST KERNEL] Reading from CI
+[   13.525299] ########### Sending request 85
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.526058] ########### Request 85 get response
+[   13.526634] [GUEST KERNEL] Reading from CI done
+[   13.527207] [GUEST KERNEL] Reading from CI
+[   13.527722] ########### Sending request 86
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.528468] ########### Request 86 get response
+[   13.529033] [GUEST KERNEL] Reading from CI done
+[   13.529612] [GUEST KERNEL] Reading from CI
+[   13.530124] ########### Sending request 87
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.530862] ########### Request 87 get response
+[   13.531429] [GUEST KERNEL] Reading from CI done
+[   13.531998] [GUEST KERNEL] Reading from CI
+[   13.532537] ########### Sending request 88
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.533264] ########### Request 88 get response
+[   13.533838] [GUEST KERNEL] Reading from CI done
+[   13.534412] [GUEST KERNEL] Reading from CI
+[   13.534929] ########### Sending request 89
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.535672] ########### Request 89 get response
+[   13.536262] [GUEST KERNEL] Reading from CI done
+[   13.536841] [GUEST KERNEL] Reading from CI
+[   13.537361] ########### Sending request 90
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.538099] ########### Request 90 get response
+[   13.538670] [GUEST KERNEL] Reading from CI done
+[   13.539241] [GUEST KERNEL] Reading from CI
+[   13.539791] ########### Sending request 91
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.540528] ########### Request 91 get response
+[   13.541107] [GUEST KERNEL] Reading from CI done
+[   13.541688] [GUEST KERNEL] Reading from CI
+[   13.542202] ########### Sending request 92
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.542944] ########### Request 92 get response
+[   13.543511] [GUEST KERNEL] Reading from CI done
+[   13.544087] [GUEST KERNEL] Reading from CI
+[   13.544630] ########### Sending request 93
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.545359] ########### Request 93 get response
+[   13.545941] [GUEST KERNEL] Reading from CI done
+[   13.546531] [GUEST KERNEL] Reading from CI
+[   13.547048] ########### Sending request 94
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.547824] ########### Request 94 get response
+[   13.548411] [GUEST KERNEL] Reading from CI done
+[   13.548983] [GUEST KERNEL] Reading from CI
+[   13.549501] ########### Sending request 95
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.550217] ########### Request 95 get response
+[   13.550786] [GUEST KERNEL] Reading from CI done
+[   13.551355] [GUEST KERNEL] Reading from CI
+[   13.551877] ########### Sending request 96
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.552623] ########### Request 96 get response
+[   13.553197] [GUEST KERNEL] Reading from CI done
+[   13.553778] [GUEST KERNEL] Reading from CI
+[   13.554302] ########### Sending request 97
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.555043] ########### Request 97 get response
+[   13.555612] [GUEST KERNEL] Reading from CI done
+[   13.556207] [GUEST KERNEL] Reading from CI
+[   13.556731] ########### Sending request 98
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.557514] ########### Request 98 get response
+[   13.558087] [GUEST KERNEL] Reading from CI done
+[   13.558660] [GUEST KERNEL] Reading from CI
+[   13.559180] ########### Sending request 99
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.559911] ########### Request 99 get response
+[   13.560505] [GUEST KERNEL] Reading from CI done
+[   13.561077] [GUEST KERNEL] Reading from CI
+[   13.561600] ########### Sending request 100
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.562350] ########### Request 100 get response
+[   13.562932] [GUEST KERNEL] Reading from CI done
+[   13.563506] [GUEST KERNEL] Reading from CI
+[   13.564021] ########### Sending request 101
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.564773] ########### Request 101 get response
+[   13.565354] [GUEST KERNEL] Reading from CI done
+[   13.565931] [GUEST KERNEL] Reading from CI
+[   13.566447] ########### Sending request 102
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.567206] ########### Request 102 get response
+[   13.567791] [GUEST KERNEL] Reading from CI done
+[   13.568387] [GUEST KERNEL] Reading from CI
+[   13.568911] ########### Sending request 103
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.569712] ########### Request 103 get response
+[   13.570293] [GUEST KERNEL] Reading from CI done
+[   13.570858] [GUEST KERNEL] Reading from CI
+[   13.571375] ########### Sending request 104
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.572099] ########### Request 104 get response
+[   13.572695] [GUEST KERNEL] Reading from CI done
+[   13.573271] [GUEST KERNEL] Reading from CI
+[   13.573791] ########### Sending request 105
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.574523] ########### Request 105 get response
+[   13.575110] [GUEST KERNEL] Reading from CI done
+[   13.575687] [GUEST KERNEL] Reading from CI
+[   13.576217] ########### Sending request 106
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.576958] ########### Request 106 get response
+[   13.577543] [GUEST KERNEL] Reading from CI done
+[   13.578107] [GUEST KERNEL] Reading from CI
+[   13.578624] ########### Sending request 107
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.579350] ########### Request 107 get response
+[   13.579931] [GUEST KERNEL] Reading from CI done
+[   13.580525] [GUEST KERNEL] Reading from CI
+[   13.581046] ########### Sending request 108
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.581811] ########### Request 108 get response
+[   13.582424] [GUEST KERNEL] Reading from CI done
+[   13.583002] [GUEST KERNEL] Reading from CI
+[   13.583518] ########### Sending request 109
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.584273] ########### Request 109 get response
+[   13.584848] [GUEST KERNEL] Reading from CI done
+[   13.585426] [GUEST KERNEL] Reading from CI
+[   13.585947] ########### Sending request 110
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.586741] ########### Request 110 get response
+[   13.587327] [GUEST KERNEL] Reading from CI done
+[   13.587895] [GUEST KERNEL] Reading from CI
+[   13.588434] ########### Sending request 111
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.589179] ########### Request 111 get response
+[   13.589767] [GUEST KERNEL] Reading from CI done
+[   13.590334] [GUEST KERNEL] Reading from CI
+[   13.590850] ########### Sending request 112
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.591603] ########### Request 112 get response
+[   13.592209] [GUEST KERNEL] Reading from CI done
+[   13.592780] [GUEST KERNEL] Reading from CI
+[   13.593306] ########### Sending request 113
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.594085] ########### Request 113 get response
+[   13.594672] [GUEST KERNEL] Reading from CI done
+[   13.595261] [GUEST KERNEL] Reading from CI
+[   13.595773] ########### Sending request 114
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.596528] ########### Request 114 get response
+[   13.597114] [GUEST KERNEL] Reading from CI done
+[   13.597689] [GUEST KERNEL] Reading from CI
+[   13.598212] ########### Sending request 115
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.598962] ########### Request 115 get response
+[   13.599549] [GUEST KERNEL] Reading from CI done
+[   13.600142] [GUEST KERNEL] Reading from CI
+[   13.600664] ########### Sending request 116
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.601396] ########### Request 116 get response
+[   13.601983] [GUEST KERNEL] Reading from CI done
+[   13.602552] [GUEST KERNEL] Reading from CI
+[   13.603055] ########### Sending request 117
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.603820] ########### Request 117 get response
+[   13.604428] [GUEST KERNEL] Reading from CI done
+[   13.605006] [GUEST KERNEL] Reading from CI
+[   13.605534] ########### Sending request 118
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.606315] ########### Request 118 get response
+[   13.606913] [GUEST KERNEL] Reading from CI done
+[   13.607487] [GUEST KERNEL] Reading from CI
+[   13.608006] ########### Sending request 119
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.608816] ########### Request 119 get response
+[   13.609408] [GUEST KERNEL] Reading from CI done
+[   13.609978] [GUEST KERNEL] Reading from CI
+[   13.610485] ########### Sending request 120
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.611229] ########### Request 120 get response
+[   13.611814] [GUEST KERNEL] Reading from CI done
+[   13.612406] [GUEST KERNEL] Reading from CI
+[   13.612921] ########### Sending request 121
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.613706] ########### Request 121 get response
+[   13.614283] [GUEST KERNEL] Reading from CI done
+[   13.614864] [GUEST KERNEL] Reading from CI
+[   13.615378] ########### Sending request 122
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.616099] ########### Request 122 get response
+[   13.616700] [GUEST KERNEL] Reading from CI done
+[   13.617292] [GUEST KERNEL] Reading from CI
+[   13.617816] ########### Sending request 123
+#### enter request handler
+Read
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+1030792151040
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.618592] ########### Request 123 get response
+[   13.619175] [GUEST KERNEL] Reading from CI done
+[   13.629985] [GUEST KERNEL] Writing to CI
+[   13.631361] ########### Sending request 124
+#### enter request handler
+Write
+18439707199292568067
+18423000506960183296
+18412304457845200504
+18413430357752043128
+18413148882775332472
+18413993307705464440
+18412867407798621816
+18411460032915068536
+firecracker: new CI received
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.633104] ########### Request 124 get response
+[   13.634580] [GUEST KERNEL] Writing to CI done
+[   13.635595] [GUEST KERNEL] Reading from CI
+[   13.636570] ########### Sending request 125
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.637841] ########### Request 125 get response
+[   13.638909] [GUEST KERNEL] Reading from CI done
+[   13.639955] [GUEST KERNEL] Reading from CI
+[   13.640950] ########### Sending request 126
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.642153] ########### Request 126 get response
+[   13.643221] [GUEST KERNEL] Reading from CI done
+[   13.644296] [GUEST KERNEL] Reading from CI
+[   13.645040] ########### Sending request 127
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.645919] ########### Request 127 get response
+[   13.646648] [GUEST KERNEL] Reading from CI done
+[   13.647366] [GUEST KERNEL] Reading from CI
+[   13.648021] ########### Sending request 128
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.648923] ########### Request 128 get response
+[   13.649657] [GUEST KERNEL] Reading from CI done
+[   13.650372] [GUEST KERNEL] Reading from CI
+[   13.651018] ########### Sending request 129
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.651906] ########### Request 129 get response
+[   13.652657] [GUEST KERNEL] Reading from CI done
+[   13.653377] [GUEST KERNEL] Reading from CI
+[   13.654032] ########### Sending request 130
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.654891] ########### Request 130 get response
+[   13.655475] [GUEST KERNEL] Reading from CI done
+[   13.656044] [GUEST KERNEL] Reading from CI
+[   13.656580] ########### Sending request 131
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.657324] ########### Request 131 get response
+[   13.657909] [GUEST KERNEL] Reading from CI done
+[   13.658495] [GUEST KERNEL] Reading from CI
+[   13.659020] ########### Sending request 132
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.659758] ########### Request 132 get response
+[   13.660372] [GUEST KERNEL] Reading from CI done
+[   13.660954] [GUEST KERNEL] Reading from CI
+[   13.661483] ########### Sending request 133
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.662207] ########### Request 133 get response
+[   13.662804] [GUEST KERNEL] Reading from CI done
+[   13.663390] [GUEST KERNEL] Reading from CI
+[   13.663921] ########### Sending request 134
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.664706] ########### Request 134 get response
+[   13.665296] [GUEST KERNEL] Reading from CI done
+[   13.665856] [GUEST KERNEL] Reading from CI
+[   13.666372] ########### Sending request 135
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.667118] ########### Request 135 get response
+[   13.667692] [GUEST KERNEL] Reading from CI done
+[   13.668289] [GUEST KERNEL] Reading from CI
+[   13.668799] ########### Sending request 136
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.669579] ########### Request 136 get response
+[   13.670157] [GUEST KERNEL] Reading from CI done
+[   13.670730] [GUEST KERNEL] Reading from CI
+[   13.671254] ########### Sending request 137
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.672002] ########### Request 137 get response
+[   13.672606] [GUEST KERNEL] Reading from CI done
+[   13.673186] [GUEST KERNEL] Reading from CI
+[   13.673711] ########### Sending request 138
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.674466] ########### Request 138 get response
+[   13.675040] [GUEST KERNEL] Reading from CI done
+[   13.675598] [GUEST KERNEL] Reading from CI
+[   13.676141] ########### Sending request 139
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.676899] ########### Request 139 get response
+[   13.677496] [GUEST KERNEL] Reading from CI done
+[   13.678076] [GUEST KERNEL] Reading from CI
+[   13.678594] ########### Sending request 140
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.679331] ########### Request 140 get response
+[   13.679930] [GUEST KERNEL] Reading from CI done
+[   13.680567] [GUEST KERNEL] Reading from CI
+[   13.681152] ########### Sending request 141
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.681975] ########### Request 141 get response
+[   13.682563] [GUEST KERNEL] Reading from CI done
+[   13.683145] [GUEST KERNEL] Reading from CI
+[   13.683670] ########### Sending request 142
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.684432] ########### Request 142 get response
+[   13.685017] [GUEST KERNEL] Reading from CI done
+[   13.685608] [GUEST KERNEL] Reading from CI
+[   13.686131] ########### Sending request 143
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.686884] ########### Request 143 get response
+[   13.687465] [GUEST KERNEL] Reading from CI done
+[   13.688036] [GUEST KERNEL] Reading from CI
+[   13.688582] ########### Sending request 144
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.689397] ########### Request 144 get response
+[   13.689989] [GUEST KERNEL] Reading from CI done
+[   13.690569] [GUEST KERNEL] Reading from CI
+[   13.691096] ########### Sending request 145
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.691862] ########### Request 145 get response
+[   13.692466] [GUEST KERNEL] Reading from CI done
+[   13.693041] [GUEST KERNEL] Reading from CI
+[   13.693575] ########### Sending request 146
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.694324] ########### Request 146 get response
+[   13.694920] [GUEST KERNEL] Reading from CI done
+[   13.695516] [GUEST KERNEL] Reading from CI
+[   13.696038] ########### Sending request 147
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.696795] ########### Request 147 get response
+[   13.697383] [GUEST KERNEL] Reading from CI done
+[   13.697961] [GUEST KERNEL] Reading from CI
+[   13.698490] ########### Sending request 148
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.699248] ########### Request 148 get response
+[   13.699843] [GUEST KERNEL] Reading from CI done
+[   13.700445] [GUEST KERNEL] Reading from CI
+[   13.700973] ########### Sending request 149
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.701769] ########### Request 149 get response
+[   13.702369] [GUEST KERNEL] Reading from CI done
+[   13.702958] [GUEST KERNEL] Reading from CI
+[   13.703484] ########### Sending request 150
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.704226] ########### Request 150 get response
+[   13.704817] [GUEST KERNEL] Reading from CI done
+[   13.705389] [GUEST KERNEL] Reading from CI
+[   13.705916] ########### Sending request 151
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.706710] ########### Request 151 get response
+[   13.707301] [GUEST KERNEL] Reading from CI done
+[   13.707868] [GUEST KERNEL] Reading from CI
+[   13.708416] ########### Sending request 152
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.709163] ########### Request 152 get response
+[   13.709763] [GUEST KERNEL] Reading from CI done
+[   13.710348] [GUEST KERNEL] Reading from CI
+[   13.710873] ########### Sending request 153
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.711656] ########### Request 153 get response
+[   13.712270] [GUEST KERNEL] Reading from CI done
+[   13.712852] [GUEST KERNEL] Reading from CI
+[   13.713386] ########### Sending request 154
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.714142] ########### Request 154 get response
+[   13.714737] [GUEST KERNEL] Reading from CI done
+[   13.715311] [GUEST KERNEL] Reading from CI
+[   13.715838] ########### Sending request 155
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.716598] ########### Request 155 get response
+[   13.717190] [GUEST KERNEL] Reading from CI done
+[   13.717770] [GUEST KERNEL] Reading from CI
+[   13.718294] ########### Sending request 156
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.719041] ########### Request 156 get response
+[   13.719642] [GUEST KERNEL] Reading from CI done
+[   13.720235] [GUEST KERNEL] Reading from CI
+[   13.720753] ########### Sending request 157
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.721528] ########### Request 157 get response
+[   13.722112] [GUEST KERNEL] Reading from CI done
+[   13.722685] [GUEST KERNEL] Reading from CI
+[   13.723195] ########### Sending request 158
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.723998] ########### Request 158 get response
+[   13.724606] [GUEST KERNEL] Reading from CI done
+[   13.725192] [GUEST KERNEL] Reading from CI
+[   13.725720] ########### Sending request 159
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.726464] ########### Request 159 get response
+[   13.727058] [GUEST KERNEL] Reading from CI done
+[   13.727644] [GUEST KERNEL] Reading from CI
+[   13.728187] ########### Sending request 160
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.728923] ########### Request 160 get response
+[   13.729522] [GUEST KERNEL] Reading from CI done
+[   13.730114] [GUEST KERNEL] Reading from CI
+[   13.730628] ########### Sending request 161
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.731357] ########### Request 161 get response
+[   13.731931] [GUEST KERNEL] Reading from CI done
+[   13.732538] [GUEST KERNEL] Reading from CI
+[   13.733063] ########### Sending request 162
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.733844] ########### Request 162 get response
+[   13.734435] [GUEST KERNEL] Reading from CI done
+[   13.735014] [GUEST KERNEL] Reading from CI
+[   13.735527] ########### Sending request 163
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.736255] ########### Request 163 get response
+[   13.736842] [GUEST KERNEL] Reading from CI done
+[   13.737427] [GUEST KERNEL] Reading from CI
+[   13.738050] ########### Sending request 164
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.738890] ########### Request 164 get response
+[   13.739481] [GUEST KERNEL] Reading from CI done
+[   13.740076] [GUEST KERNEL] Reading from CI
+[   13.740615] ########### Sending request 165
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.741358] ########### Request 165 get response
+[   13.741949] [GUEST KERNEL] Reading from CI done
+[   13.742530] [GUEST KERNEL] Reading from CI
+[   13.743054] ########### Sending request 166
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.743789] ########### Request 166 get response
+[   13.744406] [GUEST KERNEL] Reading from CI done
+[   13.744990] [GUEST KERNEL] Reading from CI
+[   13.745514] ########### Sending request 167
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.746299] ########### Request 167 get response
+[   13.746885] [GUEST KERNEL] Reading from CI done
+[   13.747465] [GUEST KERNEL] Reading from CI
+[   13.747986] ########### Sending request 168
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.748724] ########### Request 168 get response
+[   13.749315] [GUEST KERNEL] Reading from CI done
+[   13.749903] [GUEST KERNEL] Reading from CI
+[   13.750430] ########### Sending request 169
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.751186] ########### Request 169 get response
+[   13.751770] [GUEST KERNEL] Reading from CI done
+[   13.752373] [GUEST KERNEL] Reading from CI
+[   13.752907] ########### Sending request 170
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.753634] ########### Request 170 get response
+[   13.754213] [GUEST KERNEL] Reading from CI done
+[   13.754797] [GUEST KERNEL] Reading from CI
+[   13.755317] ########### Sending request 171
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.756129] ########### Request 171 get response
+[   13.756718] [GUEST KERNEL] Reading from CI done
+[   13.757300] [GUEST KERNEL] Reading from CI
+[   13.757824] ########### Sending request 172
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.758578] ########### Request 172 get response
+[   13.759160] [GUEST KERNEL] Reading from CI done
+[   13.759741] [GUEST KERNEL] Reading from CI
+[   13.760278] ########### Sending request 173
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.761031] ########### Request 173 get response
+[   13.761624] [GUEST KERNEL] Reading from CI done
+[   13.762196] [GUEST KERNEL] Reading from CI
+[   13.762724] ########### Sending request 174
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.763472] ########### Request 174 get response
+[   13.764061] [GUEST KERNEL] Reading from CI done
+[   13.764647] [GUEST KERNEL] Reading from CI
+[   13.765174] ########### Sending request 175
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.765914] ########### Request 175 get response
+[   13.766500] [GUEST KERNEL] Reading from CI done
+[   13.767078] [GUEST KERNEL] Reading from CI
+[   13.767586] ########### Sending request 176
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.768322] ########### Request 176 get response
+[   13.768906] [GUEST KERNEL] Reading from CI done
+[   13.769481] [GUEST KERNEL] Reading from CI
+[   13.770005] ########### Sending request 177
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.770775] ########### Request 177 get response
+[   13.771362] [GUEST KERNEL] Reading from CI done
+[   13.771934] [GUEST KERNEL] Reading from CI
+[   13.772472] ########### Sending request 178
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.773191] ########### Request 178 get response
+[   13.773778] [GUEST KERNEL] Reading from CI done
+[   13.774353] [GUEST KERNEL] Reading from CI
+[   13.774876] ########### Sending request 179
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.775615] ########### Request 179 get response
+[   13.776225] [GUEST KERNEL] Reading from CI done
+[   13.776803] [GUEST KERNEL] Reading from CI
+[   13.777327] ########### Sending request 180
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.778085] ########### Request 180 get response
+[   13.778677] [GUEST KERNEL] Reading from CI done
+[   13.779264] [GUEST KERNEL] Reading from CI
+[   13.779779] ########### Sending request 181
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.780520] ########### Request 181 get response
+[   13.781113] [GUEST KERNEL] Reading from CI done
+[   13.781693] [GUEST KERNEL] Reading from CI
+[   13.782215] ########### Sending request 182
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.782958] ########### Request 182 get response
+[   13.783538] [GUEST KERNEL] Reading from CI done
+[   13.784129] [GUEST KERNEL] Reading from CI
+[   13.784652] ########### Sending request 183
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.785387] ########### Request 183 get response
+[   13.785975] [GUEST KERNEL] Reading from CI done
+[   13.786552] [GUEST KERNEL] Reading from CI
+[   13.787075] ########### Sending request 184
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.787794] ########### Request 184 get response
+[   13.788397] [GUEST KERNEL] Reading from CI done
+[   13.788969] [GUEST KERNEL] Reading from CI
+[   13.789489] ########### Sending request 185
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.790234] ########### Request 185 get response
+[   13.790809] [GUEST KERNEL] Reading from CI done
+[   13.791367] [GUEST KERNEL] Reading from CI
+[   13.791887] ########### Sending request 186
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.792629] ########### Request 186 get response
+[   13.793205] [GUEST KERNEL] Reading from CI done
+[   13.793781] [GUEST KERNEL] Reading from CI
+[   13.794293] ########### Sending request 187
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.795063] ########### Request 187 get response
+[   13.795662] [GUEST KERNEL] Reading from CI done
+[   13.796258] [GUEST KERNEL] Reading from CI
+[   13.796767] ########### Sending request 188
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.797514] ########### Request 188 get response
+[   13.798093] [GUEST KERNEL] Reading from CI done
+[   13.798655] [GUEST KERNEL] Reading from CI
+[   13.799169] ########### Sending request 189
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.799915] ########### Request 189 get response
+[   13.800520] [GUEST KERNEL] Reading from CI done
+[   13.801089] [GUEST KERNEL] Reading from CI
+[   13.801613] ########### Sending request 190
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.802351] ########### Request 190 get response
+[   13.802938] [GUEST KERNEL] Reading from CI done
+[   13.803510] [GUEST KERNEL] Reading from CI
+[   13.804133] ########### Sending request 191
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.804917] ########### Request 191 get response
+[   13.805514] [GUEST KERNEL] Reading from CI done
+[   13.806091] [GUEST KERNEL] Reading from CI
+[   13.806615] ########### Sending request 192
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.807364] ########### Request 192 get response
+[   13.807950] [GUEST KERNEL] Reading from CI done
+[   13.808539] [GUEST KERNEL] Reading from CI
+[   13.809067] ########### Sending request 193
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.809787] ########### Request 193 get response
+[   13.810380] [GUEST KERNEL] Reading from CI done
+[   13.810963] [GUEST KERNEL] Reading from CI
+[   13.811480] ########### Sending request 194
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.812227] ########### Request 194 get response
+[   13.812813] [GUEST KERNEL] Reading from CI done
+[   13.813398] [GUEST KERNEL] Reading from CI
+[   13.813918] ########### Sending request 195
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.814680] ########### Request 195 get response
+[   13.815271] [GUEST KERNEL] Reading from CI done
+[   13.815859] [GUEST KERNEL] Reading from CI
+[   13.816396] ########### Sending request 196
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.817134] ########### Request 196 get response
+[   13.817726] [GUEST KERNEL] Reading from CI done
+[   13.818304] [GUEST KERNEL] Reading from CI
+[   13.818842] ########### Sending request 197
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.819587] ########### Request 197 get response
+[   13.820197] [GUEST KERNEL] Reading from CI done
+[   13.820786] [GUEST KERNEL] Reading from CI
+[   13.821310] ########### Sending request 198
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.822075] ########### Request 198 get response
+[   13.822674] [GUEST KERNEL] Reading from CI done
+[   13.823263] [GUEST KERNEL] Reading from CI
+[   13.823794] ########### Sending request 199
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.824554] ########### Request 199 get response
+[   13.825151] [GUEST KERNEL] Reading from CI done
+[   13.825738] [GUEST KERNEL] Reading from CI
+[   13.826261] ########### Sending request 200
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.827002] ########### Request 200 get response
+[   13.827589] [GUEST KERNEL] Reading from CI done
+[   13.828184] [GUEST KERNEL] Reading from CI
+[   13.828723] ########### Sending request 201
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.829525] ########### Request 201 get response
+[   13.830113] [GUEST KERNEL] Reading from CI done
+[   13.830695] [GUEST KERNEL] Reading from CI
+[   13.831226] ########### Sending request 202
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.831979] ########### Request 202 get response
+[   13.832585] [GUEST KERNEL] Reading from CI done
+[   13.833167] [GUEST KERNEL] Reading from CI
+[   13.833692] ########### Sending request 203
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.834440] ########### Request 203 get response
+[   13.835021] [GUEST KERNEL] Reading from CI done
+[   13.835589] [GUEST KERNEL] Reading from CI
+[   13.836103] ########### Sending request 204
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.836851] ########### Request 204 get response
+[   13.837440] [GUEST KERNEL] Reading from CI done
+[   13.838016] [GUEST KERNEL] Reading from CI
+[   13.838528] ########### Sending request 205
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.839258] ########### Request 205 get response
+[   13.839838] [GUEST KERNEL] Reading from CI done
+[   13.840422] [GUEST KERNEL] Reading from CI
+[   13.840937] ########### Sending request 206
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.841692] ########### Request 206 get response
+[   13.842274] [GUEST KERNEL] Reading from CI done
+[   13.842852] [GUEST KERNEL] Reading from CI
+[   13.843372] ########### Sending request 207
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.844103] ########### Request 207 get response
+[   13.844710] [GUEST KERNEL] Reading from CI done
+[   13.845295] [GUEST KERNEL] Reading from CI
+[   13.845814] ########### Sending request 208
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.846560] ########### Request 208 get response
+[   13.847142] [GUEST KERNEL] Reading from CI done
+[   13.847704] [GUEST KERNEL] Reading from CI
+[   13.848249] ########### Sending request 209
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.849007] ########### Request 209 get response
+[   13.849597] [GUEST KERNEL] Reading from CI done
+[   13.850166] [GUEST KERNEL] Reading from CI
+[   13.850687] ########### Sending request 210
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.851433] ########### Request 210 get response
+[   13.852027] [GUEST KERNEL] Reading from CI done
+[   13.852625] [GUEST KERNEL] Reading from CI
+[   13.853148] ########### Sending request 211
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.853897] ########### Request 211 get response
+[   13.854476] [GUEST KERNEL] Reading from CI done
+[   13.855048] [GUEST KERNEL] Reading from CI
+[   13.855553] ########### Sending request 212
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.856292] ########### Request 212 get response
+[   13.856881] [GUEST KERNEL] Reading from CI done
+[   13.857456] [GUEST KERNEL] Reading from CI
+[   13.857972] ########### Sending request 213
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.858683] ########### Request 213 get response
+[   13.859262] [GUEST KERNEL] Reading from CI done
+[   13.859828] [GUEST KERNEL] Reading from CI
+[   13.860385] ########### Sending request 214
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.861190] ########### Request 214 get response
+[   13.861790] [GUEST KERNEL] Reading from CI done
+[   13.862363] [GUEST KERNEL] Reading from CI
+[   13.862877] ########### Sending request 215
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.863616] ########### Request 215 get response
+[   13.864240] [GUEST KERNEL] Reading from CI done
+[   13.864821] [GUEST KERNEL] Reading from CI
+[   13.865358] ########### Sending request 216
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.866102] ########### Request 216 get response
+[   13.866684] [GUEST KERNEL] Reading from CI done
+[   13.867255] [GUEST KERNEL] Reading from CI
+[   13.867765] ########### Sending request 217
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.868561] ########### Request 217 get response
+[   13.869147] [GUEST KERNEL] Reading from CI done
+[   13.869717] [GUEST KERNEL] Reading from CI
+[   13.870228] ########### Sending request 218
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.870966] ########### Request 218 get response
+[   13.871554] [GUEST KERNEL] Reading from CI done
+[   13.872135] [GUEST KERNEL] Reading from CI
+[   13.872660] ########### Sending request 219
+#### enter request handler
+Read
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+71777214538466338
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.873475] ########### Request 219 get response
+[   13.874063] [GUEST KERNEL] Reading from CI done
+[   13.874639] [GUEST KERNEL] Reading from CI
+[   13.875161] ########### Sending request 220
+#### enter request handler
+Read
+18439707199292568067
+18423000506960183296
+18412304457845200504
+18413430357752043128
+18413148882775332472
+18413993307705464440
+18412867407798621816
+18411460032915068536
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.875910] ########### Request 220 get response
+[   13.876519] [GUEST KERNEL] Reading from CI done
+[   13.877100] [GUEST KERNEL] Reading from CI
+[   13.877621] ########### Sending request 221
+#### enter request handler
+Read
+18439707199292568067
+18423000506960183296
+18412304457845200504
+18413430357752043128
+18413148882775332472
+18413993307705464440
+18412867407798621816
+18411460032915068536
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.878348] ########### Request 221 get response
+[   13.878931] [GUEST KERNEL] Reading from CI done
+[   13.879501] [GUEST KERNEL] Reading from CI
+[   13.880020] ########### Sending request 222
+#### enter request handler
+Read
+18439707199292568067
+18423000506960183296
+18412304457845200504
+18413430357752043128
+18413148882775332472
+18413993307705464440
+18412867407798621816
+18411460032915068536
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.880761] ########### Request 222 get response
+[   13.881352] [GUEST KERNEL] Reading from CI done
+[   13.881930] [GUEST KERNEL] Reading from CI
+[   13.882452] ########### Sending request 223
+#### enter request handler
+Read
+18403678453812471555
+18404804302180188160
+18403115452338274592
+18386471792536059904
+18377183118304656090
+18378027543234788058
+18376901643327945434
+18375494268444392154
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.883218] ########### Request 223 get response
+[   13.883808] [GUEST KERNEL] Reading from CI done
+[   13.884433] [GUEST KERNEL] Writing to CI
+[   13.884936] ########### Sending request 224
+#### enter request handler
+Write
+18438018349444315651
+18423000506960183296
+18412022982868489848
+18415119207612307064
+18414837732635596408
+18413711832728753784
+18413430357752043128
+18410897082961647224
+firecracker: new CI received
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.885671] ########### Request 224 get response
+[   13.886259] [GUEST KERNEL] Writing to CI done
+[   13.886815] [GUEST KERNEL] Reading from CI
+[   13.887341] ########### Sending request 225
+#### enter request handler
+Read
+18403678453812471555
+18404804302180188160
+18403115452338274592
+18386471792536059904
+18377183118304656090
+18378027543234788058
+18376901643327945434
+18375494268444392154
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.888076] ########### Request 225 get response
+[   13.888691] [GUEST KERNEL] Reading from CI done
+invalid response ID
+[   13.889586] [GUEST KERNEL] Writing to CI
+[   13.890076] ########### Sending request 226
+#### enter request handler
+Write
+18439707199304579587
+18420748707146498048
+18412585932821911160
+18413711832728753784
+18411741507891779192
+18414274782682175096
+18411178557938357880
+18412867407798621816
+firecracker: new CI received
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.890867] ########### Request 226 get response
+[   13.891456] [GUEST KERNEL] Writing to CI done
+[   13.892009] [GUEST KERNEL] Reading from CI
+[   13.892548] ########### Sending request 227
+#### enter request handler
+Read
+18403678453812471555
+18404804302180188160
+18403115452338274592
+18386471792536059904
+18377183118304656090
+18378027543234788058
+18376901643327945434
+18375494268444392154
+firecracker: we have signaled the used queue
+##### handle finished, returning
+[   13.893309] ########### Request 227 get response
+[   13.893898] [GUEST KERNEL] Reading from CI done
+invalid response ID
+
